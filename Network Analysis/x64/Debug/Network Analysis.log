@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\BS(AI)\sem 3\Data structures\Project\DS PROJECT\Network Analysis\Network Analysis\Graph.h(890): warning C4715: 'Graph::find_SCCs': not all control paths return a value
+D:\BS(AI)\sem 3\Data structures\Project\DS PROJECT\Network Analysis\Network Analysis\Graph.h(776): warning C4715: 'Graph::find_WCCs': not all control paths return a value
+  Network Analysis.vcxproj -> D:\BS(AI)\sem 3\Data structures\Project\DS PROJECT\Network Analysis\x64\Debug\Network Analysis.exe
